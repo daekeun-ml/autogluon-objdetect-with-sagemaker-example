@@ -11,6 +11,7 @@ This example shows you how to perform AutoGluon-based Object Detection with a ma
 
 # Dataset
 - [Pika](https://universe.roboflow.com/maxmacstnpublic/pika-wehps) by Roboflow
+    - The annotation files in the `manifest` folder are the result of the author's own labeling work in SageMaker Ground Truth. 
 
 ## License Summary
 This sample code is provided under the MIT-0 license. See the LICENSE file.
